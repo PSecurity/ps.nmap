@@ -117,20 +117,17 @@ Após rodar o script, você verá o seguinte menu:
 
 Escolha a opção e veja o resultado do seu escaneamento!
 
-
 ---
 
-🔧 Dependências
+## **🔧 Dependências**
 
 Nmap: Ferramenta principal de escaneamento de rede.
 
 Termux: Ambiente de terminal no Android.
 
-
-
 ---
 
-💬 Contribuições
+## **💬 Contribuições**
 
 Sinta-se à vontade para contribuir com melhorias no script.
 
