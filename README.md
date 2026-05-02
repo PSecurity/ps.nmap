@@ -96,7 +96,6 @@ O PS.Nmap oferece as seguintes opções de escaneamento, cada uma com um propós
 
 Após rodar o script, você verá o seguinte menu:
 
-``` id="gnrgwt"
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
   MENU PRINCIPAL
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
