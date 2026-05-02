@@ -18,7 +18,7 @@
 ## 🚀 **Instalação**
 
 1. **Instalar o Termux**:
-   Se ainda não tiver o Termux instalado, baixe na Google Play Store ou diretamente do [site oficial](https://termux.com/).
+   Se ainda não tiver o Termux instalado, baixe na f-droid.
 
 2. **Instalar o Nmap**:
    O Nmap será instalado automaticamente caso você ainda não o tenha no seu sistema. O script verifica se o Nmap está presente e instala se necessário.
