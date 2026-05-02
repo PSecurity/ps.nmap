@@ -2,7 +2,7 @@
 # ============================================================
 #   PS.Nmap - PeekSecurity
 #   Script educativo de reconhecimento com Nmap no Termux
-#   Autor: Peek | @PeekSecurity
+#   Autor: Gilberto Martins | @PeekSecurity
 #   GitHub: https://psecurity.github.io/PSecurity
 # ============================================================
 
