@@ -131,6 +131,3 @@ Termux: Ambiente de terminal no Android.
 Sinta-se à vontade para contribuir com melhorias no script.
 
 Abra um issue ou envie um pull request no GitHub.
-
-
-Agora é só copiar esse bloco completo e colar no seu arquivo `README.md` no GitHub! Se precisar de mais alguma coisa, estou à disposição!
